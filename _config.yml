@@ -25,7 +25,7 @@ url                      : # "https://jiminr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # https://github.com/jiminr/jiminr.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/smiley.png"
+logo                     : "/assets/images/smiley.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "류지민"
-  avatar           : # path of avatar image, e.g. "/assets/images/jiminr.jpg"
+  avatar           : "/assets/images/jiminr.png"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "대한민국, 서울"
   email            : "jiminlyu1@gmail.com"
